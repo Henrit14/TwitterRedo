@@ -5,7 +5,10 @@ html {
   width: 100%;
 }
 img {
-  width: 10%;  
+  width: 30px;
+  float: right;
+  top: 0;
+  position: absolute;
 }
 a {
   text-decoration: none;
@@ -16,4 +19,7 @@ li {
 }
 body {
   font-family: 'Inter', sans-serif;
+}
+.nav {
+  background-color: ;
 }
